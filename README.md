@@ -105,14 +105,14 @@ Program starts → main.py
 └──────────────────────────┘
         │
         ▼
-[ Valid choice 1-5? ] ──No──→ [ "Invalid choice" → loop back ]
+[ Valid choice 1-5? ] ──No -> [ "Invalid choice" → loop back ]
         │ Yes
         ▼
 [ Module class initializes ]
         │
         ▼
 [ Path / Input validation ]
-Invalid ──→ [ Re-prompt user ]
+Invalid -> [ Re-prompt user ]
         │ Valid
         ▼
 [ Core logic executes ]
@@ -268,4 +268,4 @@ Biotechnologist and Bioinformatician
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/genome-miner/file_handling/blob/main/LICENSE).
