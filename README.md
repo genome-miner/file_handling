@@ -270,6 +270,7 @@ Biotechnologist and Bioinformatician
 
 This project is licensed under the [MIT License](https://github.com/genome-miner/file_handling/blob/main/LICENSE).
 
+---
 <div align="center">
 
 ⭐ If you found this useful, consider giving it a star!
