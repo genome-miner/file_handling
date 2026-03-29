@@ -1,5 +1,5 @@
 # 🗂️ File Handling Toolkit
-> **Five powerful file management utilities — all in one terminal-based Python application for handling large biological files.**
+> **Five Python utilities for biological file organization, duplicate detection,version tracking, and backup — with a built-in contact management system for research collaborators.**
 
 ![Python](https://img.shields.io/badge/python-3.10.11-blue)
 ![OOP](https://img.shields.io/badge/Architecture-OOP-yellow)
