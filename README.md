@@ -266,6 +266,15 @@ Biotechnologist and Bioinformatician
 
 ---
 
+<div align="center">
+
+⭐ If you found this useful, consider giving it a star!
+
+_Built with Python & Biopython • Enzyme data from Bio.Restriction_
+
+</div>
+
+
 ## License
 
 This project is licensed under the [MIT License](https://github.com/genome-miner/file_handling/blob/main/LICENSE).
